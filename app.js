@@ -1,7 +1,7 @@
 // Comentário
 
 let listaDeNumerosSorteados = [];
-let numeroLimite = 40;
+let numeroLimite = 30;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
